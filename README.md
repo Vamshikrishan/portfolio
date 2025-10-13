@@ -48,7 +48,9 @@ Currently pursuing B.Tech in Artificial Intelligence and Machine Learning at **B
 portfolio/
 │
 ├── index.html # Main page
+
 ├── styles.css # Styling file
+
 └── script.js # JS interactivity
 
 
@@ -72,7 +74,7 @@ Deployed for free using **GitHub Pages**
 
 ## 🏁 Credits
 Built by **P Vamshi Krishna**  
-
+as part of the VaultofCodes Web Development Internship – Task-1
 ---
 
 ⭐ **If you like my work, please star this repository!**
