@@ -73,7 +73,7 @@ Deployed for free using **GitHub Pages**
 ---
 
 ## 🏁 Credits
-Built by **P Vamshi Krishna**  
+Built by **Pasupunoori Vamshi Krishna**  
 as part of the VaultofCodes Web Development Internship – Task-1
 ---
 
